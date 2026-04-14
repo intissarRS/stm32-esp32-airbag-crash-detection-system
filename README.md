@@ -70,4 +70,14 @@ The "Safety Node." It operates as a dedicated listener via UART (115200 Baud).
 
 -Buzzer → GPIO4
 
+---
+## 🎥 Demo Video
+This video shows real-time crash detection, STM32 processing, and ESP32 communication.
+
+https://github.com/user-attachments/assets/5631fb3e-0934-4892-ae60-bebdc06b2270
+
+
+
+
+
 
